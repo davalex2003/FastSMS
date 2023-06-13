@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FastSMS</string>
+    <string name="about">О программе</string>
+    <string name="add">Добавить контакт</string>
+    <string name="delete">Удалить контакты</string>
+    <string name="write">Отправить СМС</string>
+    <string name="exit">Выход</string>
+    <string name="name">Введите имя контакта</string>
+    <string name="number">Введите телефон</string>
+    <string name="delete_1">Удалить</string>
+    <string name="success">Успели вовремя</string>
+    <string name="deadline">Просрочили дедлайн</string>
+    <string name="remember">Напоминание о себе</string>
+    <string name="thanks">Благодарность</string>
+    <string name="send">Отправляем файлы</string>
+    <string name="send_sms">Отправить СМС</string>
+    <string name="copy">Скопировать в буфер обмена</string>
+</resources>
